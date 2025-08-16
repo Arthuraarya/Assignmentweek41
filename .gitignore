@@ -1,0 +1,8 @@
+﻿venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/secrets.toml
+# uncomment baris di bawah jika file csv > 100MB (GitHub menolak >100MB)
+# bank_churn_data.csv
